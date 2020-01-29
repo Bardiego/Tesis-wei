@@ -1,0 +1,37 @@
+tiempo funcion_scrap_ambito = 22.5s
+
+tiempo funcion_scrap_tiempoar = 7.3s
+
+tiempo funcion_scrap_perfil = 9.9s
+
+tiempo funcion_scrap_pagina12 = 36.7s
+
+tiempo funcion_scrap_minutouno = 4.7s
+
+tiempo funcion_scrap_eldestapeweb = 15.3s
+
+tiempo funcion_scrap_elcronista = 12.8s
+
+tiempo funcion_scrap_tn = 15.3s
+
+tiempo funcion_scrap_radiomitre = 6.7s
+
+tiempo funcion_scrap_lavoz_cordoba = 9.8s
+
+tiempo funcion_scrap_lanacion = 8.0s
+
+tiempo funcion_scrap_lagaceta_salta = 5.5s
+
+tiempo funcion_scrap_lacapital_rosario = 14.1s
+
+tiempo funcion_scrap_infobae = 14.65s
+
+tiempo funcion_scrap_diarioregistrado = 9.4s
+
+tiempo funcion_scrap_diariopopular = 17.8s
+
+tiempo funcion_scrap_cronica = 27.8s
+
+tiempo funcion_scrap_clarin = 4.7s
+
+tiempo total = 243.8s = 4min
